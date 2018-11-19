@@ -27,6 +27,7 @@ I want to track the progress of my studies in this broad area. I do not intend t
 - [NumPy](http://www.numpy.org)
 - [Matplotlib](https://matplotlib.org)
 - [Pandas](https://pandas.pydata.org)
+- [PyDataset](https://github.com/iamaziz/PyDataset)
 
 
 # Contact 
