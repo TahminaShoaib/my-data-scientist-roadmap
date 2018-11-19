@@ -22,6 +22,8 @@ I want to track the progress of my studies in this broad area. I do not intend t
 # References
 
 - [Python](https://www.python.org)
+- [IPython](http://ipython.org)
+- [SciPy](https://www.scipy.org)
 - [NumPy](http://www.numpy.org)
 - [Matplotlib](https://matplotlib.org)
 - [Pandas](https://pandas.pydata.org)
