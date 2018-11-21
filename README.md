@@ -23,7 +23,7 @@ I want to track the progress of my studies in this broad area. I do not intend t
 
 |  | **Title** | **Author** | **Publisher** | **Release Date** | 
 | ---------- | ----- | ------ | --------- | :----------: |
-| ◻️ | [Ferramentas Essenciais para Trabalhar com Data Science](http://minerandodados.klickpages.info/ferramentas-datascience) | MinerandoDados.com.br | MinerandoDados.com.br | ? |
+| ✔️ | [Ferramentas Essenciais para Trabalhar com Data Science](http://minerandodados.klickpages.info/ferramentas-datascience) | MinerandoDados.com.br | MinerandoDados.com.br | - |
 
 
 # References
