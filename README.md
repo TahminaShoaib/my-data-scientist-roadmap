@@ -9,7 +9,7 @@ I want to track the progress of my studies in this broad area. I do not intend t
 # Courses
 
 |  | **Name** | **School** | **End Date** | **Certified** |
-| ---------- | ----- | ------ | --------- | ------------ | 
+| ---------- | ----- | ------ | :-------: | :----------: | 
 | ✔️ | [Complete Python Bootcamp: Go from zero to hero in Python 3](https://www.udemy.com/complete-python-bootcamp) | [Udemy](https://www.udemy.com) | Aug 2017 | [<img width='28' height='28' src='https://media.licdn.com/dms/image/C510BAQFKXnLDglG5qA/company-logo_400_400/0?e=1550102400&v=beta&t=d-x-pPgn-5T7X-KBNakilqJieZGcTC50fXN82M_LOYk'>](https://www.udemy.com/certificate/UC-ETQL17OH/) | 
 | ◻️ | [Probabilidade e Estatística](https://veduca.org/p/probabilidade-e-estatistica) | [Veduca](https://veduca.org) |  |  | 
 | ◻️ | [Machine Learning e Data Science com Python](https://www.udemy.com/machine-learning-e-data-science-com-python) | [Udemy](https://www.udemy.com) |  |  |
