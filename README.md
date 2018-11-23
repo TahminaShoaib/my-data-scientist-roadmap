@@ -17,6 +17,16 @@ I want to track the progress of my studies in this broad area. I do not intend t
 | ◻️ | [Deep Learning Prerequisites: The Numpy Stack in Python](https://www.udemy.com/deep-learning-prerequisites-the-numpy-stack-in-python/) | [Udemy](https://www.udemy.com) |  |  |
 | ◻️ | [Python Fundamentos para Análise de Dados](https://www.datascienceacademy.com.br/course?courseid=python-fundamentos) | [Data Science Academy](https://www.datascienceacademy.com.br) |  |  |
 | ◻️ | [Introdução à Ciência de Dados 2.0](https://www.datascienceacademy.com.br/course?courseid=introduo--cincia-de-dados) | [Data Science Academy](https://www.datascienceacademy.com.br) |  |  |
+| ◻️ | [Scraping and Data Mining for Beginners and Pros](https://www.udemy.com/cart/subscribe/course/196662/) | [Udemy](https://www.udemy.com) |  |  |
+| ◻️ | [Learn Educational Data Mining (EDM)](https://www.udemy.com/cart/subscribe/course/1814186/) | [Udemy](https://www.udemy.com) |  |  |
+| ◻️ | [Python Hand-on Solve 200 Problems](https://www.udemy.com/cart/subscribe/course/1353212/) | [Udemy](https://www.udemy.com) |  |  |
+| ◻️ | [Understanding Data Quality and Reference Data Management](https://www.udemy.com/cart/subscribe/course/639568/) | [Udemy](https://www.udemy.com) |  |  |
+| ◻️ | [Data Warehouse Steps](https://www.udemy.com/cart/subscribe/course/1744580/) | [Udemy](https://www.udemy.com) |  |  |
+| ◻️ | [Data Manipulation and PCA (Principal Component Analysis)](https://www.udemy.com/cart/subscribe/course/1499222/) | [Udemy](https://www.udemy.com) |  |  |
+| ◻️ | [Introduction to Data Analysis for Government](https://www.udemy.com/cart/subscribe/course/1304224/) | [Udemy](https://www.udemy.com) |  |  |
+| ◻️ | [Data Integration with the MarkLogic NoSQL Database](https://www.udemy.com/cart/subscribe/course/1490898/) | [Udemy](https://www.udemy.com) |  |  |
+| ◻️ | [Mobile ML and Data Science with nitroproc](https://www.udemy.com/cart/subscribe/course/1381906/) | [Udemy](https://www.udemy.com) |  |  |
+| ◻️ | [Learn Data Science With R Part 1 of 10](https://www.udemy.com/cart/subscribe/course/1315750/) | [Udemy](https://www.udemy.com) |  |  |
 
 
 # (e)Books
